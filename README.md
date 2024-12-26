@@ -33,10 +33,14 @@ Technologies Used
 	•	CSS3
 	•	JavaScript (ES6+)
 
+## Credits
 
+These project was completed as part of a Javascript course by [Brad Traversy](https://github.com/bradtraversy).
 
-Contact
+Special thanks to Brad Traversy for his excellent teaching and resources.
 
-Created by Mohammed Ghoula (https://github.com/mohammedghoula2).
+## Contact
+
+Executed by Mohammed Ghoula (https://github.com/mohammedghoula2).
 
 Happy coding! 😊
